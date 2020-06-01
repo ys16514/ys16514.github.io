@@ -1,3 +1,9 @@
+<!--
+ * @Author: sunyudi
+ * @Date: 2020-05-31 21:48:51
+ * @LastEditTime: 2020-05-31 22:49:39
+ * @FilePath: \ys16514.github.io\index.html
+--> 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,11 +15,16 @@
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
-  <div id="app"></div>
+  <div data-app id="app">Please wait...</div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
+      el: '#app',
+      name: 'sunyudi',
+      repo: 'https://github.com/ys16514/ys16514.github.io',
+      coverpage: true,
+      loadNavbar: true,
+      loadSidebar: true,
+      subMaxLevel: 2
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
