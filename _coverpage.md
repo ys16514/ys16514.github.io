@@ -1,12 +1,12 @@
 <!--
  * @Author: sunyudi
  * @Date: 2020-05-31 22:34:03
- * @LastEditTime: 2020-06-01 23:52:53
+ * @LastEditTime: 2020-06-06 11:44:29
  * @FilePath: \ys16514.github.io\_coverpage.md
 --> 
 <!-- _coverpage.md -->
 
-![logo](assets/icon.svg)
+![logo](/assets/icon.svg)
 
 # Yudi's Blog <small>1.0</small>
 
@@ -17,4 +17,4 @@
 - Live in Hangzhou, Zhejiang
 
 [GitHub](https://github.com/ys16514/ys16514.github.io)
-[Get Started](#README)
+[Get Started](/README.md)
