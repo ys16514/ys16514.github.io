@@ -2,7 +2,6 @@
  * @Author: sunyudi
  * @Date: 2020-06-06 11:35:09
  * @LastEditTime: 2020-06-06 12:45:01
- * @FilePath: \ys16514.github.io\Crack\index.md
 --> 
 # Tell you how to crack some softwares
 
